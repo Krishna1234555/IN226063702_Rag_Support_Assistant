@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-chroma
+langchain-google-genai
+pypdf
+streamlit
+chromadb
+python-dotenv
+fpdf
+langchain-huggingface
+sentence-transformers
+torchvision
